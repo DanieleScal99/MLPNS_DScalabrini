@@ -5,4 +5,4 @@ Il plot originale presenta alcuni problemi tra cui:
 * la linea di fit e le barre di errore ( che sono troppo piccole per essere distinte ) coprono i punti sperimentali; 
 * L'utilizzo di colori diversi per punti sperimentali e curva di fit è ridondante. 
 
-![alt text](vis/Plot_originale.png)
+![alt text]()
